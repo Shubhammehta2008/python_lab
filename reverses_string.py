@@ -1,6 +1,6 @@
 a=input("enter string")
 rev=""
-for ch in range a:
+for ch in a:
     rev.append(ch)
 
 
