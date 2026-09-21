@@ -4,4 +4,4 @@ def add_entry(d):
     
 data = {"name": "shubham"}
 add_entry(data)
-print(data)
+print(data)    # #{'name': 'shubham', 'age': 25}
