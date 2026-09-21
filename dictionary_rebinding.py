@@ -4,4 +4,5 @@ def reassign_dict(d):
 
 data = {"name": "shubham"}
 reassign_dict(data)
-print(data)
+print(data)           #{'a': 1, 'b': 2}
+#                      {'name': 'shubham'}
