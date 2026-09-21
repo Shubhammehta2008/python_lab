@@ -3,4 +3,4 @@ def cel_to_fah(celsius):
     return fahrenheit
 
 celsius = 25
-print(cel_to_fah(celsius))
+print(cel_to_fah(celsius))             #77.0
