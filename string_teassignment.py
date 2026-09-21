@@ -1,10 +1,10 @@
 def change_string(s):
     s="g"+s[1:]
-    print(s)
+    print(s)                          #ghubham
 
 
 
 text= "shubham"
 change_string(text)
 
-print(text)
+print(text)                           #shubham
