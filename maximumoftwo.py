@@ -6,4 +6,4 @@ def maximumoftwo(a, b):
 
 x=15
 y=30 
-print( maximumoftwo(x, y))    
+print( maximumoftwo(x, y))    #30
